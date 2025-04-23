@@ -57,7 +57,7 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: http://localhost:8080/realms/DemoUCB
+          issuer-uri: http://keycloak.ucb.edu.bo:8080/realms/DemoUCB
 
   
 management.endpoint.gateway.enabled: true
