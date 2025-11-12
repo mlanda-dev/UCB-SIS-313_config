@@ -12,8 +12,8 @@ spring:
       port: 27017
       database: product-db
   banner:
-    location: classpath:banner-ms-product.txt
-
+    location: classpath:banner-ms-product-dev.txt
+	
 spring.cloud.function.definition: messageProcessor
 
 spring.cloud.stream:

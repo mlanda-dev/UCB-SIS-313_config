@@ -1,6 +1,6 @@
 spring:
   banner:
-    location: classpath:banner.txt
+    location: classpath:banner-dev.txt
 server:
   error:
     include-message: always
